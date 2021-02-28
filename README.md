@@ -23,8 +23,8 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗥𝗲𝗮𝗰𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+        <span><strong>Node JS</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
       </td>
     </tr>
     <tr valign="top">
@@ -41,8 +41,8 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+          <span><strong>Vue</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
       </td>
     </tr>
   </tbody>
