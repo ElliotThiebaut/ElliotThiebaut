@@ -45,7 +45,6 @@
     </tr>
   </tbody>
 </table>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ElliotThiebaut&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true" alt="ElliotThiebaut" /></p>
 
 <div align="center">
   
