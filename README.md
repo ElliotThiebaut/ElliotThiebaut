@@ -1,9 +1,7 @@
 <h1 align="center">Hi 🤹‍♂️, I'm Elliot</h1>
-<h3 align="center">A student in Web Development and Web Design</h3>
 
 <ul align="center">
     <p>👨‍💻 All of my projects are available at <a href="https://github.com/ElliotThiebaut">https://github.com/ElliotThiebaut</a></p>
-    <p>🤹‍♂️ I love playing with JS to make fun little projects</p>
 </ul>
 
 
@@ -20,7 +18,7 @@
       </td>
       <td width="25%" align="center">
         <span>TypeScript</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/typecript-icon.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>Node JS</strong></span><br><br><br>
