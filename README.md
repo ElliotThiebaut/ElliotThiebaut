@@ -1,7 +1,7 @@
-<h1 align="center">Hi 🤹‍♂️, I'm Elliot</h1>
+<h1 align="center">Hi, I'm Elliot</h1>
 
 <ul align="center">
-    <p>👨‍💻 All of my projects are available at <a href="https://github.com/ElliotThiebaut">https://github.com/ElliotThiebaut</a></p>
+    <p>All of my projects are available at <a href="https://github.com/ElliotThiebaut">https://github.com/ElliotThiebaut</a></p>
 </ul>
 
 
